@@ -1,0 +1,5 @@
+---
+# defaults file for dnsmasq
+role_dir: "/etc/ansible/roles/dnsmasq"
+files_dir: "/files"
+conf_file_path: "/dnsmasq.conf"
